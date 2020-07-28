@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fefff66-b880-4a84-8fa1-216801203f1b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/机器学习部分代码/BP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/机器学习部分代码/RNN.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/final/AdaBoost.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/AdaBoost.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/final/PCA2D.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/PCA2D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/final/PCA3D.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/PCA3D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/final/RandomForest.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/RandomForest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/final/SVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/SVM.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +27,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\CZY\repository" />
+      <recent name="F:\CZY\repository\code\final" />
     </key>
   </component>
   <component name="SvnConfiguration">
