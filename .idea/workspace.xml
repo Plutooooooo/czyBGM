@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fefff66-b880-4a84-8fa1-216801203f1b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/code/数据获取部分代码/src/combineExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code/数据获取部分代码/src/parseHTML.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/~$报告.doc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/temporary/cluster2D.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/temporary/cluster2D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/temporary/cluster3D.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/temporary/cluster3D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/temporary/dbscan.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/temporary/dbscan.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/temporary/dbscan2D.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/temporary/dbscan2D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/temporary/pcaTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/temporary/pcaTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/temporary/svm.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/temporary/svm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/temporary/svmTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/temporary/svmTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/机器学习部分代码/AdaBoost.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/final/AdaBoost.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/机器学习部分代码/BP.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/final/BP.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/机器学习部分代码/PCA2D.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/final/PCA2D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/机器学习部分代码/PCA3D.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/final/PCA3D.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/机器学习部分代码/RNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/final/RNN.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/机器学习部分代码/RandomForest.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/final/RandomForest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code/机器学习部分代码/SVM.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/机器学习部分代码/final/SVM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/报告.doc" beforeDir="false" afterPath="$PROJECT_DIR$/报告.doc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,15 +16,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fDfwORmPxrvAnxi6nVQxL5eG6S" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
@@ -59,8 +51,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595757821942</updated>
+      <workItem from="1596010836830" duration="575000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1596005657207">
